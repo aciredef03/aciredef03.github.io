@@ -1,7 +1,28 @@
-echo "# federicafontaniericv" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/aciredef03/federicafontaniericv.git
-git push -u origin main
+Aciredef03
+
+CRM & Performance Marketing Manager with proven experience in multichannel strategies, marketing automation, and data-driven performance campaigns.
+
+💼 Role
+Current: CRM & Performance Marketing Manager @ Moma Comunicazione
+Location: Remote
+
+🛠️ Key Skills
+CRM & Automation: HubSpot, Active Campaign
+
+Performance Marketing: Google Ads, Meta Ads, LinkedIn Ads, TikTok Ads
+
+Analytics & Reporting: GA4, Looker Studio, Excel
+
+Web: HTML, CSS
+
+Tools: Adobe Suite (Photoshop, Lightroom, XD)
+
+🌍 Languages
+Italian (Native)
+
+English (B2)
+
+📫 Contact
+Email: effeeffe.info@gmail.com
+LinkedIn
+
